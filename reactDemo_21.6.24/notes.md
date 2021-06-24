@@ -22,7 +22,7 @@ React 可以直接下载使用，下载包中也提供了很多学习的实例�
 其中
 + react.min.js - React 的核心库
 + react-dom.min.js - 提供与 DOM 相关的功能
-+ babel.min.js - Babel 可以将 ES6 代码转为 ES5 代码
++ babel.min.js - Babel 可以将 ES6 代码转为 ES5 代码,Babel 内嵌了对 JSX 的支持
 
 #### 示例代码：
 ```html
@@ -37,4 +37,6 @@ React 可以直接下载使用，下载包中也提供了很多学习的实例�
     </script>
 ```
 以上代码是将一个span标签加入到id为demo1的div中
-    注意：插入的span标签不能添加style样式
+    注意：
+        1 插入的span标签不能添加style样式
+        2 如果要使用 JSX，则 <script> 标签的 type 属性需要设置为 text/babel
