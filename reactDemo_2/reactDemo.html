@@ -2,17 +2,18 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>react_demo_1</title>
+    <title>元素渲染</title>
 </head>
 <body>
-    <div id="demo1">
+    <div id="demo">
 
     </div>
     <script type="text/babel">
+        const element = <h2>Say Hi</h2>;
         ReactDOM.render(
-            <span>demo1</span>,
-            document.getElementById("demo1")
-        );
+            element,
+            document.getElementById("demo")
+        )
     </script>
 </body>
 </html>

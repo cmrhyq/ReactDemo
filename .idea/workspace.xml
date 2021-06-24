@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="54f9a65a-a01c-4d81-b3c8-910a40fd2809" name="Default Changelist" comment="" />
+    <list default="true" id="54f9a65a-a01c-4d81-b3c8-910a40fd2809" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/reactDemo_1/reactDemoCss.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactDemo_2/reactDemo.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactDemo_2/reactDemo1.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactDemo_21.6.24/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/reactDemo_1/notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactDemo_21.6.24/reactHtmlDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/reactDemo_1/reactDemo.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactDemo_21.6.24/reactJsDemo.css" beforeDir="false" afterPath="$PROJECT_DIR$/reactDemo_2/notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactDemo_21.6.24/reactJsDemo.js" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,6 +23,7 @@
       <list>
         <option value="JavaScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -20,8 +31,13 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1uNwIYy1JuDSgi379hx6q8gI6yb" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -54,7 +70,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624519276628</updated>
-      <workItem from="1624519284675" duration="1814000" />
+      <workItem from="1624519284675" duration="5994000" />
     </task>
     <servers />
   </component>
@@ -71,5 +87,8 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

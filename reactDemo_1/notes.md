@@ -40,3 +40,5 @@ React 可以直接下载使用，下载包中也提供了很多学习的实例�
     注意：
         1 插入的span标签不能添加style样式
         2 如果要使用 JSX，则 <script> 标签的 type 属性需要设置为 text/babel
+        3 react中的class为className
+        4 只能通过id来插入元素
