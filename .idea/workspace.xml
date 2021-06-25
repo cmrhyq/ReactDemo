@@ -2,15 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54f9a65a-a01c-4d81-b3c8-910a40fd2809" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/reactDemo_1/reactDemoCss.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reactDemo_2/reactDemo.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/reactDemo_2/reactDemo1.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactDemo_2/reactDemo2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactDemo_3/notes.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactDemo_3/reactDemo.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactDemo_1/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/reactDemo_1/notes.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/reactDemo_2/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/reactDemo_2/notes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactDemo_21.6.24/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/reactDemo_1/notes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactDemo_21.6.24/reactHtmlDemo.html" beforeDir="false" afterPath="$PROJECT_DIR$/reactDemo_1/reactDemo.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactDemo_21.6.24/reactJsDemo.js" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,8 +67,19 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1624519276628</updated>
-      <workItem from="1624519284675" duration="8946000" />
+      <workItem from="1624519284675" duration="9191000" />
+      <workItem from="1624543717091" duration="633000" />
+      <workItem from="1624584917365" duration="1475000" />
+      <workItem from="1624586432949" duration="1074000" />
     </task>
+    <task id="LOCAL-00001" summary="notes">
+      <created>1624540734485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1624540734485</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -82,7 +90,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -90,5 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="notes" />
   </component>
 </project>

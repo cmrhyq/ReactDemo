@@ -1,6 +1,6 @@
-### react安装：
+## react安装：
 
-#### 安装：
+### 安装：
 
 React 可以直接下载使用，下载包中也提供了很多学习的实例。
 本demo使用了 React 的版本为 16.4.0，可以在官网 https://reactjs.org/ 下载最新版。
@@ -24,7 +24,7 @@ React 可以直接下载使用，下载包中也提供了很多学习的实例�
 + react-dom.min.js - 提供与 DOM 相关的功能
 + babel.min.js - Babel 可以将 ES6 代码转为 ES5 代码,Babel 内嵌了对 JSX 的支持
 
-#### 示例代码：
+### 示例代码：
 ```html
     <div id="demo1">
 
