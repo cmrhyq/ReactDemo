@@ -2,20 +2,35 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Props验证</title>
+    <title>事件处理-1</title>
 </head>
 <body>
 <div id="demo">
 
 </div>
 <script type="text/babel">
+class LoggingButton extends React.Component {
 
+    handleClick = () => {
+        console.log('this is:', this);
+    };
+
+    render() {
+        return (
+            <botton onClick={this.handleClick}>
+                Click me
+            </botton>
+        );
+    }
+}
+
+ReactDOM.render(
+    <LoggingButton/>,
+    document.getElementById("demo")
+)
 </script>
-
 </body>
 </html>
-<script src="http://pv.sohu.com/cityjson?ie=utf-8"></script>
-<script src="https://cdn.bootcss.com/prop-types/15.6.1/prop-types.js"></script>
 <script src="https://cdn.staticfile.org/react/16.4.0/umd/react.development.js"></script>
 <script src="https://cdn.staticfile.org/react-dom/16.4.0/umd/react-dom.development.js"></script>
 <!-- 生产环境中不建议使用 -->
