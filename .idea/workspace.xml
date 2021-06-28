@@ -36,6 +36,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
@@ -71,6 +72,7 @@
       <workItem from="1624543717091" duration="633000" />
       <workItem from="1624584917365" duration="1475000" />
       <workItem from="1624586432949" duration="1074000" />
+      <workItem from="1624842960930" duration="3987000" />
     </task>
     <task id="LOCAL-00001" summary="notes">
       <created>1624540734485</created>
