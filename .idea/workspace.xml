@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="54f9a65a-a01c-4d81-b3c8-910a40fd2809" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/reactDemo_6/reactDemo2.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactDemo_5/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/reactDemo_5/notes.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/reactDemo_5/reactDemo3.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactDemo_6/notes.md" beforeDir="false" afterPath="$PROJECT_DIR$/reactDemo_6/notes.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/reactDemo_6/reactDemo1.html" beforeDir="false" afterPath="$PROJECT_DIR$/reactDemo_6/reactDemo1.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -70,7 +72,9 @@
       <workItem from="1624584917365" duration="1475000" />
       <workItem from="1624586432949" duration="1074000" />
       <workItem from="1624842960930" duration="15372000" />
-      <workItem from="1624868437521" duration="439000" />
+      <workItem from="1624868437521" duration="1876000" />
+      <workItem from="1624872376909" duration="5000" />
+      <workItem from="1624929503017" duration="4429000" />
     </task>
     <task id="LOCAL-00001" summary="notes">
       <created>1624540734485</created>
