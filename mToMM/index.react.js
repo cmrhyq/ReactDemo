@@ -1,9 +1,11 @@
 class Proper extends React.Component {
     constructor() {
         super();
+
         this.metter = {
             value: ""
         }
+        
         this.state = {
             meter: "",
             millimeter: ""
